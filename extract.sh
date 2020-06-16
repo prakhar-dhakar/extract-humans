@@ -1,4 +1,4 @@
-rm testingimages/*.jpg
+# rm testingimages/*.jpg
 rm Objects/*.jpg
 rm poses/*.jpg
 
