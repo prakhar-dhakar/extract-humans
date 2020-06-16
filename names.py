@@ -1,6 +1,6 @@
 import os, glob
 
-folder = "../Video1/video-to-test/"
+folder = "testingimages/"
 print("doing")
 with open ("darknet/data/train.txt","w") as f:
     for file in sorted(glob.glob(folder+"*.jpg")):
